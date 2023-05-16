@@ -61,3 +61,5 @@ https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs
     1. DNS の有効化と保護
     1. Key Vault の有効化と保護
 
+## 免責事項
+このリポジトリのコンテンツは、Microsoft Defender for Cloud の機能を学ぶためのハンズオンラボコンテンツです。
