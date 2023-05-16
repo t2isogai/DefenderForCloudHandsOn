@@ -1,6 +1,7 @@
 # Microsoft Defender for Cloud Lab Japanese
 このリポジトリは Microsoft Defender for Cloud を学ぶためのハンズオンラボコンテンツです。
-こちらの GitHub リポジトリを参考にしながら、日本語化および日本のお客様によくある質問や懸念事項を取り込んでいます。
+こちらの GitHub リポジトリを参考にしながら、日本語化を中心とした改善を行っています。
+
 https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Labs
 
 このリポジトリには以下が含まれます。
